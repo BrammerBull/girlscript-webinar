@@ -1,0 +1,2 @@
+# girlscript-webinar
+github commands
